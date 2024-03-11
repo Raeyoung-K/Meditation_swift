@@ -6,4 +6,4 @@
 
 #### play/pause button, 10 seconds going forward/backward, Repeat function. 
 
-#### DEMO : https://youtu.be/kknUVYw-mqk
+#### DEMO : https://youtu.be/XeE_Gx_6ePg
